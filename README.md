@@ -1,4 +1,4 @@
-**This project is in Digital Circuit Course:**
+**This project is in Digital Circuit Course btw:**
 - Simulation of Proteus:  
 https://github.com/user-attachments/assets/196d1dc6-e931-4e3e-baf8-534cca3f45fa
 - A traffic light but it is not actually perfect:  
